@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+opencv-python-headless
+numpy
+Pillow
+requests
+colorama
